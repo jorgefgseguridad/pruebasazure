@@ -3,6 +3,6 @@
     <title>Prueba de PHP</title>
   </head>
   <body>
-    <?php echo '<p>Te falta campo</p>'; ?>
+    <?php echo '<p>Hola Mundo</p>'; ?>
   </body>
 </html>
